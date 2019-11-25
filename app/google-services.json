@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "899183983169",
+    "firebase_url": "https://improject-46566.firebaseio.com",
+    "project_id": "improject-46566",
+    "storage_bucket": "improject-46566.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899183983169:android:c89f84305494a515",
+        "android_client_info": {
+          "package_name": "edu.cyut.im.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899183983169-tpnoa195037b8q0vmmq4172dlb87u3av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.cyut.im.firebase",
+            "certificate_hash": "a7dccce01bb4dcfa95c154167e3ccd6c02974795"
+          }
+        },
+        {
+          "client_id": "899183983169-o567ptem7bg76m8jdfencasjccduf3hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_0Ar5tIdUT8e3a2x8XksnT4wNL1Ocks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899183983169-o567ptem7bg76m8jdfencasjccduf3hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899183983169-0qrtlnak9jieg51tekl22l8fqk9fhr00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "owner.CyutOrderSystem",
+                "app_store_id": "2356"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899183983169:android:d40a579bab73f844a164c0",
+        "android_client_info": {
+          "package_name": "edu.cyut.im.order_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899183983169-felcio8lpaa6j99dlrh0iuonbiqs0khk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.cyut.im.order_system",
+            "certificate_hash": "a7dccce01bb4dcfa95c154167e3ccd6c02974795"
+          }
+        },
+        {
+          "client_id": "899183983169-o567ptem7bg76m8jdfencasjccduf3hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_0Ar5tIdUT8e3a2x8XksnT4wNL1Ocks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899183983169-o567ptem7bg76m8jdfencasjccduf3hn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899183983169-0qrtlnak9jieg51tekl22l8fqk9fhr00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "owner.CyutOrderSystem",
+                "app_store_id": "2356"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
